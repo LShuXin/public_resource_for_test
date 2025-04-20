@@ -1,0 +1,1 @@
+# public_resource_for_test
